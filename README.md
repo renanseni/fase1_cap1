@@ -7,19 +7,19 @@
 <br>
 
 # Nome do projeto
-
+Trabalalho referente ao Capítulo 1 Fase 1
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/joão-pedro-zavanela-andreu-119663250/">  João Pedro Zavanela Andreu - RM570231</a>
+- <a href="https://www.linkedin.com/in/jessicapmgomes/"> Jéssica Paula Miranda Gomes - RM572120</a>
+- <a href="https://www.linkedin.com/in/caike-minhano/">Caike Minhano - RM569255</a> 
+- <a Rafael Briani Rodrigues da Costa - RM573086</a> 
+- <a Renan Lucas Seni de Souza - RMRM570862</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- Sabrina Otoni</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
 

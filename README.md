@@ -26,8 +26,7 @@
 
 ### Coordenador(a)
 
-- Nome do Coordenador
-
+- André Godoi
 ## 📜 Descrição
 
 O projeto **FarmTech Solutions** é um sistema de gerenciamento agrícola desenvolvido como parte do Capítulo 1 da Fase 1 da FIAP. O sistema tem como objetivo auxiliar produtores rurais no controle e monitoramento de talhões agrícolas, oferecendo funcionalidades para o cadastro, consulta, atualização e remoção de dados de lavouras de **Cana-de-açúcar** e **Laranja**.
@@ -96,10 +95,8 @@ Rscript src/iralem.R
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - 22/03/2025
+* 0.1.0 - 17/03/2025
     * Implementação do sistema CRUD em Python (`main.py`)
-    * Cálculo de área para culturas de Cana-de-açúcar e Laranja
-    * Cálculo de quantidade de insumo por talhão
     * Script de estatísticas descritivas em R (`estatisticas.R`)
     * Script de consulta climática via API Open-Meteo em R (`iralem.R`)
 
